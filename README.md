@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Pratham1603/Pratham1603/blob/99b0fbdecbb0aba40368da836e45d25d728d9620/PRATHAM%20HARER.png" width="100%" />
+  <img src="https://github.com/Pratham1603/Pratham1603/blob/a17a0810e7efa6daebdea6b5bbf2d2a93b7c2e2e/PRATHAM%20HARER%20(1).png" width="100%" />
 </p>
 
 ---
