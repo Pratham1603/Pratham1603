@@ -1,6 +1,6 @@
-
-
-![Alt text](./PRATHAM HARER.png)
+<p align="center">
+  <img src="https://github.com/Pratham1603/Pratham1603/blob/99b0fbdecbb0aba40368da836e45d25d728d9620/PRATHAM%20HARER.png" width="100%" />
+</p>
 
 ---
 
