@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://ibb.co/G32b97Sf" align="center" style="width: 100%" />
+<img src="https://github.com/Pratham1603/Pratham1603/issues/1" align="center" style="width: 100%" />
 </div>  
 
 ---
