@@ -4,11 +4,6 @@
 
 ---
 
-### <div align="center">Hi 👋, I'm Pratham Harer</div>  
-#### <div align="center">An aspiring Data Scientist | ML & AI Enthusiast | CSE (AIML) Student</div>
-
----
-
 - 🎓 **CSE (AIML)** student at **Lokmanya Tilak College of Engineering (LTCE)**  
 - 🧠 Currently learning **Python**, **C/C++**, and **Machine Learning**  
 - 🚀 Working on exciting **AI/ML projects** such as [Virtual Guru – Yoga Pose Detection](https://github.com/Pratham1603/Virtual-Guru-) and [Edunet ML Project](https://github.com/Pratham1603/Edunet-Project)  
