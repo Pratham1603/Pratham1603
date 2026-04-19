@@ -46,7 +46,7 @@
 
 <div align="center">
   <table width="100%">
-    <!-- ROW 1 -->
+    <!-- ROW 1: Core Web, Programming & Databases -->
     <tr>
       <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/><br>HTML</td>
       <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/><br>CSS</td>
@@ -59,46 +59,40 @@
       <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px"/><br>MongoDB</td>
       <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40px"/><br>Redis</td>
     </tr>
-    <!-- ROW 2 -->
+    <!-- ROW 2: Design, Libraries & AI Frameworks -->
     <tr>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px"/><br>Figma</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40px"/><br>NumPy</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40px"/><br>Pandas</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40px"/><br>Matplotlib</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40px"/><br>Matplot</td>
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40px"/><br>Seaborn</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40px"/><br>Sklearn</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40px"/><br>TensorFlow</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40px"/><br>PyTorch</td>
-      <!-- Fixed LangChain Source -->
-      <td align="center"><img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.png" width="40px"/><br>LangChain</td>
-      <!-- Fixed LangGraph Source -->
-      <td align="center"><img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/docs/static/img/langgraph_logo.png" width="40px"/><br>LangGraph</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/parrot.png" width="40px"/><br>LangChain</td>
+      <td align="center"><img src="https://img.icons8.com/ios-filled/50/flow-chart.png" width="40px"/><br>LangGraph</td>
     </tr>
-    <!-- ROW 3 -->
+    <!-- ROW 3: GenAI, Backend & DevOps -->
     <tr>
-      <td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40px"/><br>HuggingFace</td>
+      <td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40px"/><br>HFace</td>
       <td align="center"><img src="https://ollama.com/public/ollama.png" width="40px"/><br>Ollama</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40px"/><br>FastAPI</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40px"/><br>Flask</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40px"/><br>Streamlit</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/><br>Tkinter</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40px"/><br>OpenCV</td>
-      <!-- Fixed MLflow Source -->
-      <td align="center"><img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/MLflow-logo-final-black.png" width="40px"/><br>MLflow</td>
+      <td align="center"><img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" width="40px"/><br>MLflow</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px"/><br>Docker</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40px"/><br>K8s</td>
     </tr>
-    <!-- ROW 4 -->
+    <!-- ROW 4: MLOps, Cloud & Tools -->
     <tr>
-      <!-- Fixed DVC Source -->
-      <td align="center"><img src="https://raw.githubusercontent.com/iterative/dvc/main/static/img/logo-small.png" width="40px"/><br>DVC</td>
-      <!-- Fixed Airflow Source -->
-      <td align="center"><img src="https://raw.githubusercontent.com/apache/airflow/main/airflow/www/static/pin_large.png" width="40px"/><br>Airflow</td>
+      <td align="center"><img src="https://www.vectorlogo.zone/logos/dvcorg/dvcorg-icon.svg" width="40px"/><br>DVC</td>
+      <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" width="40px"/><br>Airflow</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/><br>Git</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40px"/><br>AWS</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40px"/><br>Azure</td>
-      <!-- Fixed Power BI Source -->
-      <td align="center"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" width="40px"/><br>PowerBI</td>
+      <td align="center"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40px"/><br>PowerBI</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40px"/><br>Postman</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40px"/><br>Selenium</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px"/><br>VS Code</td>
