@@ -20,7 +20,7 @@
           <th>X (Twitter)</th>
           <th>Gmail</th>
           <th>Website</th>
-          <th>Dev.to</th>
+          <th>Medium</th>
           <th>Kaggle</th>
         </tr>
         <tr>
@@ -28,8 +28,8 @@
           <td align="center"><br><a href="https://x.com/yogeshwaran01" title="X (Twitter)"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/x.svg" alt="X" width="40px" height="40px"></a><br><br></td>
           <td align="center"><br><a href="mailto:yogeshin247@gmail.com" title="Gmail"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/gmail.svg" alt="Gmail" width="40px" height="40px"></a><br><br></td>
           <td align="center"><br><a href="https://yogeshwaran01.github.io" title="Website"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/website.svg" alt="Website" width="40px" height="40px"></a><br><br></td>
-          <td align="center"><br><a href="https://dev.to/yogeshwaran01" title="Blogs"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/dev.svg" alt="dev.to" width="40px" height="40px"></a><br><br></td>
-          <td align="center"><br><a href="https://www.kaggle.com/prathamharer" title="Kaggle"><img src="https://github.com/Pratham1603/Pratham1603/blob/ff02505fdf9452b8d81cab484ea135fff64effc3/kaggle_logo.png" alt="Telegram" width="40px" height="40px"></a><br><br></td>
+          <td align="center"><br><a href="https://medium.com/@prathamharer1603" title="Blogs"><img src="https://github.com/Pratham1603/Pratham1603/blob/6245803d27f17077ed783cd59297400f288e5ba1/medium_logo.png" alt="Medium Blog" width="40px" height="40px"></a><br><br></td>
+          <td align="center"><br><a href="https://www.kaggle.com/prathamharer" title="Kaggle"><img src="https://github.com/Pratham1603/Pratham1603/blob/ff02505fdf9452b8d81cab484ea135fff64effc3/kaggle_logo.png" alt="Kaggle" width="40px" height="40px"></a><br><br></td>
         </tr>
       </table>
     </td>
