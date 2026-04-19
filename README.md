@@ -69,8 +69,10 @@
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40px"/><br>Sklearn</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40px"/><br>TensorFlow</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40px"/><br>PyTorch</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/greg-vaz/Dev-Icons/main/langchain.svg" width="40px"/><br>LangChain</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/greg-vaz/Dev-Icons/main/langgraph.svg" width="40px"/><br>LangGraph</td>
+      <!-- Fixed LangChain Source -->
+      <td align="center"><img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.png" width="40px"/><br>LangChain</td>
+      <!-- Fixed LangGraph Source -->
+      <td align="center"><img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/docs/static/img/langgraph_logo.png" width="40px"/><br>LangGraph</td>
     </tr>
     <!-- ROW 3 -->
     <tr>
@@ -81,17 +83,21 @@
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40px"/><br>Streamlit</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/><br>Tkinter</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40px"/><br>OpenCV</td>
+      <!-- Fixed MLflow Source -->
       <td align="center"><img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/MLflow-logo-final-black.png" width="40px"/><br>MLflow</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px"/><br>Docker</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40px"/><br>K8s</td>
     </tr>
     <!-- ROW 4 -->
     <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/iterative/dvc/main/static/img/logo_small.svg" width="40px"/><br>DVC</td>
+      <!-- Fixed DVC Source -->
+      <td align="center"><img src="https://raw.githubusercontent.com/iterative/dvc/main/static/img/logo-small.png" width="40px"/><br>DVC</td>
+      <!-- Fixed Airflow Source -->
       <td align="center"><img src="https://raw.githubusercontent.com/apache/airflow/main/airflow/www/static/pin_large.png" width="40px"/><br>Airflow</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/><br>Git</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40px"/><br>AWS</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40px"/><br>Azure</td>
+      <!-- Fixed Power BI Source -->
       <td align="center"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" width="40px"/><br>PowerBI</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40px"/><br>Postman</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40px"/><br>Selenium</td>
