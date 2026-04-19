@@ -46,56 +46,59 @@
 
 <div align="center">
   <table width="100%">
-    <!-- ROW 1: Core Web, Programming & Databases -->
+    <!-- ROW 1: Core Web & Languages -->
     <tr>
-      <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/><br>HTML</td>
-      <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/><br>CSS</td>
-      <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/><br>JS</td>
-      <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/><br>React</td>
-      <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40px"/><br>C++</td>
-      <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/><br>Python</td>
-      <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/><br>MySQL</td>
-      <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px"/><br>Postgres</td>
-      <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px"/><br>MongoDB</td>
-      <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40px"/><br>Redis</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=html" width="40px"/><br>HTML</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=css" width="40px"/><br>CSS</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=js" width="40px"/><br>JS</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=react" width="40px"/><br>React</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=cpp" width="40px"/><br>C++</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=py" width="40px"/><br>Python</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=mysql" width="40px"/><br>MySQL</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=postgres" width="40px"/><br>Postgres</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=mongodb" width="40px"/><br>MongoDB</td>
+      <td align="center" width="10%"><img src="https://skillicons.dev/icons?i=redis" width="40px"/><br>Redis</td>
     </tr>
-    <!-- ROW 2: Design, Libraries & AI Frameworks -->
+    <!-- ROW 2: Design & Data Science -->
     <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px"/><br>Figma</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="40px"/><br>Figma</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40px"/><br>NumPy</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40px"/><br>Pandas</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40px"/><br>Matplot</td>
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40px"/><br>Seaborn</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40px"/><br>Sklearn</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40px"/><br>TensorFlow</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40px"/><br>PyTorch</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="40px"/><br>TensorFlow</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="40px"/><br>PyTorch</td>
       <td align="center"><img src="https://img.icons8.com/color/48/parrot.png" width="40px"/><br>LangChain</td>
       <td align="center"><img src="https://img.icons8.com/ios-filled/50/flow-chart.png" width="40px"/><br>LangGraph</td>
     </tr>
-    <!-- ROW 3: GenAI, Backend & DevOps -->
+    <!-- ROW 3: GenAI, Backend & MLOps -->
     <tr>
       <td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40px"/><br>HFace</td>
       <td align="center"><img src="https://ollama.com/public/ollama.png" width="40px"/><br>Ollama</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40px"/><br>FastAPI</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40px"/><br>Flask</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="40px"/><br>FastAPI</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="40px"/><br>Flask</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40px"/><br>Streamlit</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/><br>Tkinter</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40px"/><br>OpenCV</td>
-      <td align="center"><img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" width="40px"/><br>MLflow</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px"/><br>Docker</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40px"/><br>K8s</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=opencv" width="40px"/><br>OpenCV</td>
+      <!-- FIXED MLFLOW -->
+      <td align="center"><img src="https://cdn.simpleicons.org/mlflow/0194E2" width="40px"/><br>MLflow</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="40px"/><br>Docker</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="40px"/><br>K8s</td>
     </tr>
     <!-- ROW 4: MLOps, Cloud & Tools -->
     <tr>
-      <td align="center"><img src="https://www.vectorlogo.zone/logos/dvcorg/dvcorg-icon.svg" width="40px"/><br>DVC</td>
-      <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" width="40px"/><br>Airflow</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/><br>Git</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40px"/><br>AWS</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40px"/><br>Azure</td>
-      <td align="center"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40px"/><br>PowerBI</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40px"/><br>Postman</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40px"/><br>Selenium</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px"/><br>VS Code</td>
+      <!-- FIXED DVC -->
+      <td align="center"><img src="https://cdn.simpleicons.org/dvc/945DFF" width="40px"/><br>DVC</td>
+      <!-- FIXED AIRFLOW -->
+      <td align="center"><img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="40px"/><br>Airflow</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40px"/><br>Git</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="40px"/><br>AWS</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=azure" width="40px"/><br>Azure</td>
+      <td align="center"><img src="https://cdn.simpleicons.org/powerbi/F2C811" width="40px"/><br>PowerBI</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40px"/><br>Postman</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=selenium" width="40px"/><br>Selenium</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="40px"/><br>VS Code</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40px"/><br>Jupyter</td>
     </tr>
   </table>
