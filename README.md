@@ -40,6 +40,8 @@
 </table>
 </div>
 
+![](./profile-3d-contrib/profile-green-dual.svg)
+
 <p align="center">
   <img src="https://github.com/Pratham1603/Pratham1603/blob/336c7353701e6644fe44f23eacd610d3aad57759/skill.png" width="100%" />
 </p>
