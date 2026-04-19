@@ -13,7 +13,7 @@
       <img src="https://github.com/Pratham1603/Pratham1603/blob/a847f28519df9d2b3ba94f4b46edb7cf9bfab4a4/right%20(4).jpg" width="150px"/>
     </td>
     <td align="center">
-      <table border="0" cellspacing="0" cellpadding="8">
+      <table border="0" cellspacing="0" cellpadding="20">
         <tr>
           <th>Linkedin</th>
           <th>X (Twitter)</th>
