@@ -45,6 +45,7 @@
 </p>
 
 <div align="center">
+  <table border="0" cellspacing="10" cellpadding="10">
   <!-- ROW 1: Languages, Core Web & DB -->
   <table border="0" cellspacing="10" cellpadding="10">
     <tr>
