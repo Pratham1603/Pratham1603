@@ -9,26 +9,15 @@
 ---
 
 <div align="center">
-<table>
-  <tr>
-    <th>Linkedin</th>
-    <th>X (Twitter)</th>
-    <th>Gmail</th>
-    <th>Website</th>
-    <th>Dev.to</th>
-    <th>Telegram</th>
-  </tr>
-  <tr>
-    <td><a href="https://www.linkedin.com/in/yogeshwaran01/"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/linkedin.svg" width="40px" height="40px"></a></td>
-    <td><a href="https://x.com/yogeshwaran01"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/x.svg" width="40px" height="40px"></a></td>
-    <td><a href="mailto:yogeshin247@gmail.com"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/gmail.svg" width="40px" height="40px"></a></td>
-    <td><a href="https://yogeshwaran01.github.io"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/website.svg" width="40px" height="40px"></a></td>
-    <td><a href="https://dev.to/yogeshwaran01"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/dev.svg" width="40px" height="40px"></a></td>
-    <td><a href="https://t.me/yogeshwaran1"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/telegram.svg" width="40px" height="40px"></a></td>
-  </tr>
-</table>
-</div>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogeshwaran01/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yogeshwaran01)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshin247@gmail.com)
+[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yogeshwaran01.github.io)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yogeshwaran01)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yogeshwaran1)
+
+</div>
 ---
 
 ## 🧩 My Skill Set  
