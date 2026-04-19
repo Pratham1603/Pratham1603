@@ -44,42 +44,55 @@
   <img src="https://github.com/Pratham1603/Pratham1603/blob/336c7353701e6644fe44f23eacd610d3aad57759/skill.png" width="100%" />
 </p>
 
-<table><tr><td valign="top" width="33%">
-
-### 💻 Frontend  
-<div align="center">  
-<a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<div align="center">
+<table border="0" cellspacing="10" cellpadding="10">
+  <tr>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" height="40px"/><br>Python<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" height="40px"/><br>JavaScript<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" height="40px"/><br>TypeScript<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40px" height="40px"/><br>C++<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px" height="40px"/><br>C<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" height="40px"/><br>React<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40px" height="40px"/><br>Flask<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40px" height="40px"/><br>FastAPI<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px" height="40px"/><br>PostgreSQL<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" height="40px"/><br>MongoDB<br><br></td>
+  </tr>
+  <tr>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" height="40px"/><br>MySQL<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40px" height="40px"/><br>Redis<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px" height="40px"/><br>Docker<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" height="40px"/><br>Git<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" height="40px"/><br>Linux<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40px" height="40px"/><br>TensorFlow<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40px" height="40px"/><br>PyTorch<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40px" height="40px"/><br>NumPy<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40px" height="40px"/><br>Pandas<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40px" height="40px"/><br>OpenCV<br><br></td>
+  </tr>
+  <tr>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40px" height="40px"/><br>AWS<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40px" height="40px"/><br>GCP<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" height="40px"/><br>GitHub<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" height="40px"/><br>VS Code<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40px" height="40px"/><br>Jupyter<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" height="40px"/><br>Figma<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40px" height="40px"/><br>Postman<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40px" height="40px"/><br>Nginx<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40px" height="40px"/><br>Selenium<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40px" height="40px"/><br>GraphQL<br><br></td>
+  </tr>
+  <tr>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" height="40px"/><br>HTML5<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" height="40px"/><br>CSS3<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40px" height="40px"/><br>Tailwind<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40px" height="40px"/><br>Next.js<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" height="40px"/><br>Node.js<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kafka/kafka-original.svg" width="40px" height="40px"/><br>Kafka<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40px" height="40px"/><br>Kubernetes<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40px" height="40px"/><br>Vim<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40px" height="40px"/><br>Bash<br><br></td>
+    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40px" height="40px"/><br>LangChain<br><br></td>
+  </tr>
+</table>
 </div>
-
-</td><td valign="top" width="33%">
-
-### 🧠 Backend / ML  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scikit-learn.svg" alt="Scikit-Learn" height="50" /></a>  
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/fastapi.svg" alt="FastAPI" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-### ⚙️ DevOps & Tools  
-<div align="center">  
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github-original.svg" alt="GitHub" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://colab.research.google.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/22252120?s=200&v=4" alt="Google Colab" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
----
