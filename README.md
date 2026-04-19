@@ -4,6 +4,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/Pratham1603/Pratham1603/blob/667a8c23c421b058c6dc2ada446cb622b924da61/README.md" width="100%" />
+</p>
+
+---
+
 - 🎓 **CSE (AIML)** student at **Lokmanya Tilak College of Engineering (LTCE)**  
 - 🧠 Currently learning **Python**, **C/C++**, and **Machine Learning**  
 - 🚀 Working on exciting **AI/ML projects** such as [Virtual Guru – Yoga Pose Detection](https://github.com/Pratham1603/Virtual-Guru-) and [Edunet ML Project](https://github.com/Pratham1603/Edunet-Project)  
