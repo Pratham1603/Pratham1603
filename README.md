@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Pratham1603/Pratham1603/blob/5da800c532fbf1def97b9d7d135602a86e3c040b/Who%20I%20Am.png" width="100%" />
+  <img src="https://github.com/Pratham1603/Pratham1603/blob/a286d18ca8bc09e0230f98706e3a7b7d8f007adc/Who%20I%20Am.png" width="100%" />
 </p> 
 
 ---
