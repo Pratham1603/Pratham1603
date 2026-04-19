@@ -6,8 +6,6 @@
   <img src="https://github.com/Pratham1603/Pratham1603/blob/a286d18ca8bc09e0230f98706e3a7b7d8f007adc/Who%20I%20Am.png" width="100%" />
 </p> 
 
----
-
 <div align="center">
 <table border="0">
   <tr>
