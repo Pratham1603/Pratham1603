@@ -21,7 +21,7 @@
           <th>Gmail</th>
           <th>Website</th>
           <th>Dev.to</th>
-          <th>Telegram</th>
+          <th>Kaggle</th>
         </tr>
         <tr>
           <td align="center"><br><a href="https://www.linkedin.com/in/yogeshwaran01/" title="Linkedin"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/linkedin.svg" alt="Linkedin" width="40px" height="40px"></a><br><br></td>
@@ -29,7 +29,7 @@
           <td align="center"><br><a href="mailto:yogeshin247@gmail.com" title="Gmail"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/gmail.svg" alt="Gmail" width="40px" height="40px"></a><br><br></td>
           <td align="center"><br><a href="https://yogeshwaran01.github.io" title="Website"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/website.svg" alt="Website" width="40px" height="40px"></a><br><br></td>
           <td align="center"><br><a href="https://dev.to/yogeshwaran01" title="Blogs"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/dev.svg" alt="dev.to" width="40px" height="40px"></a><br><br></td>
-          <td align="center"><br><a href="https://t.me/yogeshwaran1" title="Telegram"><img src="https://cdn.jsdelivr.net/gh/yogeshwaran01/yogeshwaran01@latest/svgs/telegram.svg" alt="Telegram" width="40px" height="40px"></a><br><br></td>
+          <td align="center"><br><a href="https://www.kaggle.com/prathamharer" title="Kaggle"><img src="https://github.com/Pratham1603/Pratham1603/blob/ff02505fdf9452b8d81cab484ea135fff64effc3/kaggle_logo.png" alt="Telegram" width="40px" height="40px"></a><br><br></td>
         </tr>
       </table>
     </td>
