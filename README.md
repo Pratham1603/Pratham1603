@@ -7,13 +7,13 @@
 </p> 
 
 <div align="center">
-<table border="0">
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="200" align="center">
       <img src="https://github.com/Pratham1603/Pratham1603/blob/a847f28519df9d2b3ba94f4b46edb7cf9bfab4a4/right%20(4).jpg" width="150px"/>
     </td>
     <td align="center">
-      <table border="1">
+      <table border="0" cellspacing="0" cellpadding="8">
         <tr>
           <th>Linkedin</th>
           <th>X (Twitter)</th>
@@ -38,6 +38,7 @@
   </tr>
 </table>
 </div>
+
 ---
 
 ## 🧩 My Skill Set  
