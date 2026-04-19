@@ -93,7 +93,7 @@
       <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="40px"/><br>AWS</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=azure" width="40px"/><br>Azure</td>
       <!-- FIXED POWER BI -->
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40px"/><br>PowerBI</td>
+      <td align="center"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40px"/><br>PowerBI</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40px"/><br>Postman</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=selenium" width="40px"/><br>Selenium</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="40px"/><br>VS Code</td>
