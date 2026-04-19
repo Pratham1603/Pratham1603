@@ -15,7 +15,8 @@
     <td align="center">
       <table border="0" cellspacing="0" cellpadding="8">
         <tr>
-          <th>Linkedin</th>
+          <th>Linkedin
+          </th>
           <th>X (Twitter)</th>
           <th>Gmail</th>
           <th>Website</th>
