@@ -111,5 +111,5 @@
 </picture>
 
 <p align="center">
-  <img src="https://github.com/Pratham1603/Pratham1603/blob/a1d0dc47aeb3c4f3eca46940b6e26a31ab0cc082/footeer.jpg" width="100%" />
+  <img src="https://github.com/Pratham1603/Pratham1603/blob/6e721b7c1ed2a81e2cfc34033102fa43f3a6591b/foot.jpg" width="100%" />
 </p>
