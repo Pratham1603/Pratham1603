@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Pratham1603/Pratham1603/blob/7a43b0640613f7450a75033e23c5239be6d16b59/Who%20I%20Am.png" width="100%" />
+  <img src="https://github.com/Pratham1603/Pratham1603/blob/55b930a5cbbe40c3df743a175a6426335dceec86/Who%20I%20Am%20(1).png" width="100%" />
 </p>
 
 ---
