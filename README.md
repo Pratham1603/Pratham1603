@@ -45,32 +45,70 @@
 </p>
 
 <div align="center">
-<table border="0" cellspacing="10" cellpadding="10">
-  <tr>
-    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" height="40px"/><br>Python<br><br></td>
-    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" height="40px"/><br>JavaScript<br><br></td>
-    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" height="40px"/><br>TypeScript<br><br></td>
-    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40px" height="40px"/><br>C++<br><br></td>
-    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px" height="40px"/><br>C<br><br></td>
-    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" height="40px"/><br>React<br><br></td>
-    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40px" height="40px"/><br>Flask<br><br></td>
-    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40px" height="40px"/><br>FastAPI<br><br></td>
-    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px" height="40px"/><br>PostgreSQL<br><br></td>
-    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" height="40px"/><br>MongoDB<br><br></td>
-  </tr>
-  <tr>
-    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" height="40px"/><br>MySQL<br><br></td>
-    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40px" height="40px"/><br>Redis<br><br></td>
-    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px" height="40px"/><br>Docker<br><br></td>
-    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" height="40px"/><br>Git<br><br></td>
-    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" height="40px"/><br>Linux<br><br></td>
-    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40px" height="40px"/><br>TensorFlow<br><br></td>
-    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40px" height="40px"/><br>PyTorch<br><br></td>
-    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40px" height="40px"/><br>NumPy<br><br></td>
-    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40px" height="40px"/><br>Pandas<br><br></td>
-    <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40px" height="40px"/><br>OpenCV<br><br></td>
-  </tr>
-  <tr>
+  <!-- ROW 1: Languages, Core Web & DB -->
+  <table border="0" cellspacing="10" cellpadding="10">
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/><br>HTML</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/><br>CSS</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/><br>JS</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/><br>React</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40px"/><br>C++</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/><br>Python</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/><br>MySQL</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px"/><br>Postgres</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px"/><br>MongoDB</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40px"/><br>Redis</td>
+    </tr>
+  </table>
+
+  <!-- ROW 2: Data Science & Engineering -->
+  <table border="0" cellspacing="10" cellpadding="10">
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px"/><br>Figma</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40px"/><br>NumPy</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40px"/><br>Pandas</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40px"/><br>Matplotlib</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40px"/><br>Seaborn</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40px"/><br>Sklearn</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40px"/><br>TensorFlow</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40px"/><br>PyTorch</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/greg-vaz/Dev-Icons/main/langchain.svg" width="40px"/><br>LangChain</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/greg-vaz/Dev-Icons/main/langgraph.svg" width="40px"/><br>LangGraph</td>
+    </tr>
+  </table>
+
+  <!-- ROW 3: GenAI, Computer Vision & Back-end -->
+  <table border="0" cellspacing="10" cellpadding="10">
+    <tr>
+      <td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40px"/><br>HuggingFace</td>
+      <td align="center"><img src="https://ollama.com/public/ollama.png" width="40px"/><br>Ollama</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40px"/><br>FastAPI</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40px"/><br>Flask</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40px"/><br>Streamlit</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/><br>Tkinter</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40px"/><br>OpenCV</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/MLflow-logo-final-black.png" width="40px"/><br>MLflow</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px"/><br>Docker</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40px"/><br>K8s</td>
+    </tr>
+  </table>
+
+  <!-- ROW 4: MLOps, Cloud & Tools -->
+  <table border="0" cellspacing="10" cellpadding="10">
+    <tr>
+      <td align="center"><img src="https://raw.githubusercontent.com/iterative/dvc/main/static/img/logo_small.svg" width="40px"/><br>DVC</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/apache/airflow/main/airflow/www/static/pin_large.png" width="40px"/><br>Airflow</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/><br>Git</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40px"/><br>AWS</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40px"/><br>Azure</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" width="40px"/><br>PowerBI</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40px"/><br>Postman</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40px"/><br>Selenium</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px"/><br>VS Code</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40px"/><br>Jupyter</td>
+    </tr>
+  </table>
+</div>
     <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40px" height="40px"/><br>AWS<br><br></td>
     <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40px" height="40px"/><br>GCP<br><br></td>
     <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" height="40px"/><br>GitHub<br><br></td>
