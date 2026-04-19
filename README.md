@@ -2,19 +2,9 @@
   <img src="https://github.com/Pratham1603/Pratham1603/blob/a17a0810e7efa6daebdea6b5bbf2d2a93b7c2e2e/PRATHAM%20HARER%20(1).png" width="100%" />
 </p>
 
----
-
 <p align="center">
   <img src="https://github.com/Pratham1603/Pratham1603/blob/5da800c532fbf1def97b9d7d135602a86e3c040b/Who%20I%20Am.png" width="100%" />
-</p>
-
----
-
-- 🎓 **CSE (AIML)** student at **Lokmanya Tilak College of Engineering (LTCE)**  
-- 🧠 Currently learning **Python**, **C/C++**, and **Machine Learning**  
-- 🚀 Working on exciting **AI/ML projects** such as [Virtual Guru – Yoga Pose Detection](https://github.com/Pratham1603/Virtual-Guru-) and [Edunet ML Project](https://github.com/Pratham1603/Edunet-Project)  
-- 💬 Ask me about anything related to **AI, Machine Learning, or Data Science**  
-- ⚡ **Fun fact:** I prefer tabs over spaces 😄  
+</p> 
 
 ---
 
