@@ -81,21 +81,19 @@
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40px"/><br>Streamlit</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/><br>Tkinter</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=opencv" width="40px"/><br>OpenCV</td>
-      <!-- FIXED MLFLOW -->
       <td align="center"><img src="https://cdn.simpleicons.org/mlflow/0194E2" width="40px"/><br>MLflow</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="40px"/><br>Docker</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="40px"/><br>K8s</td>
     </tr>
     <!-- ROW 4: MLOps, Cloud & Tools -->
     <tr>
-      <!-- FIXED DVC -->
       <td align="center"><img src="https://cdn.simpleicons.org/dvc/945DFF" width="40px"/><br>DVC</td>
-      <!-- FIXED AIRFLOW -->
       <td align="center"><img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="40px"/><br>Airflow</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40px"/><br>Git</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="40px"/><br>AWS</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=azure" width="40px"/><br>Azure</td>
-      <td align="center"><img src="https://cdn.simpleicons.org/powerbi/F2C811" width="40px"/><br>PowerBI</td>
+      <!-- FIXED POWER BI -->
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40px"/><br>PowerBI</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40px"/><br>Postman</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=selenium" width="40px"/><br>Selenium</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="40px"/><br>VS Code</td>
