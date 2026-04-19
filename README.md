@@ -40,7 +40,7 @@
 </table>
 </div>
 
-![](https://github.com/Pratham1603/Pratham1603/tree/d8ca17a91f14aaef383b6ea5f0edb8bd6a22ebfa/profile-3d-contrib)
+![](https://raw.githubusercontent.com/Pratham1603/Pratham1603/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 <p align="center">
   <img src="https://github.com/Pratham1603/Pratham1603/blob/336c7353701e6644fe44f23eacd610d3aad57759/skill.png" width="100%" />
