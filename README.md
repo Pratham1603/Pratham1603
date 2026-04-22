@@ -104,6 +104,14 @@
   </table>
 </div>
 
+<p align="center">
+  <img src="https://github.com/Pratham1603/Pratham1603/blob/aa39521be93a83729a896abf112127e310b9989c/FAV_BOOK.png" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Pratham1603/Pratham1603/blob/aa39521be93a83729a896abf112127e310b9989c/book.jpg" width="100%" />
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pratham1603/Pratham1603/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pratham1603/Pratham1603/output/github-contribution-grid-snake.svg">
