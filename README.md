@@ -109,7 +109,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/Pratham1603/Pratham1603/blob/abf5f05e08faf7f496a55d7bc4cae44e6dbce31d/book%20(1).jpg" width="100%" />
+  <img src="https://github.com/Pratham1603/Pratham1603/blob/f2287980f5d5d25f6fc4863c0b6886423ad041a5/books.png" width="100%" />
 </div>
 
 <picture>
