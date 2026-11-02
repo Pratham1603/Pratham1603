@@ -104,6 +104,8 @@
   </table>
 </div>
 
+<!--
+
 <p align="center">
   <img src="https://github.com/Pratham1603/Pratham1603/blob/aa39521be93a83729a896abf112127e310b9989c/FAV_BOOK.png" width="100%" />
 </p>
@@ -111,6 +113,8 @@
 <div align="center">
   <img src="https://github.com/Pratham1603/Pratham1603/blob/f2287980f5d5d25f6fc4863c0b6886423ad041a5/books.png" width="100%" />
 </div>
+
+-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pratham1603/Pratham1603/output/github-contribution-grid-snake-dark.svg">
